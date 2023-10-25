@@ -24,7 +24,8 @@ Measures Table: A dedicated measure table was created to house all relevant calc
 
 DAX Expressions: Complex DAX expressions were employed to address specific organizational queries and challenges.
 
-![](./Hr-analysis.jpg)
+
+![](./Hr-analysis.JPG)
 
 
 
@@ -47,6 +48,7 @@ Retrenchment Candidates: A distinct subset of 117 employees, approximately 8% of
 Performance Rating: Employees were categorically grouped based on their job performance into high-rated (84.63%) and low-rated (15.37%) categories.
 
 Severance Benefits: Notably, the report identifies employees originally earmarked for promotion who unexpectedly appeared on a retrenchment list. This insight serves to prevent undue severance benefit costs.
+
 
 
 
